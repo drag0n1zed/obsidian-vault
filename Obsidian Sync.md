@@ -1,0 +1,2 @@
+Github fine-grained token for drag0n1zed/obsidian-vault: 
+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
